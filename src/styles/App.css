@@ -1,0 +1,22 @@
+.app #dropdown{
+    border-radius: 0 !important;
+    background-color: red;
+}
+ul.dropdown-menu {
+	text-align: center;
+	min-width:100%;
+	margin-bottom: 40px;
+}
+.dropdown {
+    border-radius: 4px;
+}
+.caret {
+    float: right;
+    position: relative;
+    top: 10px;
+}
+.nav-pills > li {
+    width: 100%;
+}
+
+
